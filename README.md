@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Rashid!
 
-<!--
-**rashidpython74/rashidpython74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Rashid, a passionate developer who loves to learn, build, and share. Here’s a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I enjoy working on Python, AI and ML.
+- 🌱 Currently learning: FastAPI, Postgres, DevOps, and AI/ML.
+- 🤝 Looking to collaborate on interesting software and automation projects.
+- 📝 I regularly contribute to repositories and share coding tips.
+
+## 🛠️ Skills
+
+- Python
+- Django, Flask, FastAPI
+- Git, GitHub Actions
+- Docker, Linux
+
+## 📈 GitHub Stats
+
+![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidpython74&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- Email: alirashid8374@gmail.com
+- Portfolio: rashidaliportfolio.netlify.app
+
+## ⚡ Fun Fact
+
+I love solving puzzles, automating boring stuff, and exploring new tech trends!
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and connect with me.
